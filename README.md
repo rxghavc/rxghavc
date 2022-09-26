@@ -1,0 +1,4 @@
+- I am Raghav, a junior programmer working in Python
+- I do a lot of school projects and code solutions but at the same time, in my own time, I work on seperate projects to enhance my coding skills
+- I am also learning JavaScript for APIs and more!
+- I am 17 years old currently.

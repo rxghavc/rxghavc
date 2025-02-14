@@ -1,4 +1,8 @@
-- I am Raghav, a junior programmer working in Python
-- I do a lot of school projects and code solutions but at the same time, in my own time, I work on seperate projects to enhance my coding skills
-- I am also learning JavaScript for APIs and more!
-- I am 17 years old currently.
+- An aspiring full-stack web developer & DevOps engineer
+- I'm currently studying Computer Science at Bachelor Level at the University of Surrey [2024 - 2028]
+- At the moment, I'm learning Python, and JavaScript for backbone coding languages and here is the code stack I'm learning for web development:
+  - Frontend: React.js & Next.js, TailwindCSS
+  - Backend: NodeJS, Python
+  - Database Management: MySQL
+ 
+
